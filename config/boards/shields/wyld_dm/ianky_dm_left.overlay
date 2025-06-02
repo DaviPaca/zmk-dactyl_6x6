@@ -1,6 +1,6 @@
-// wyld_dm_left.overlay
+// ianky_dm_left.overlay
 
-#include "wyld_dm.dtsi"
+#include "ianky_dm.dtsi"
 
 
 &kscan0 {
@@ -14,7 +14,3 @@
 			;
 };
 
-
-&left_encoder {
-	status = "okay";
-};
