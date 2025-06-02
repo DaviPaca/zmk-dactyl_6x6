@@ -1,12 +1,1 @@
-file_format: "1"
-id: ianky_dm
-Name: ianky_dm
-type: shield
-url: https://github.com/bullwinkle3000/zmk-config-xiao/
-requires:
-  - nice_nano_v2
-features:
-  - keys
- siblings:
-  - ianky_dm_left
-  - ianky_dm_right
+
