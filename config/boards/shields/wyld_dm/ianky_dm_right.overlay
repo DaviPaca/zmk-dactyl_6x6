@@ -1,6 +1,6 @@
-// wyld_dm_right.overlay
+// ianky_dm_right.overlay
 
-#include "wyld_dm.dtsi"
+#include "ianky_dm.dtsi"
 
 &default_transform {
     col-offset = <6>;
@@ -15,8 +15,4 @@
 			, <&pro_micro_d 8  GPIO_ACTIVE_HIGH>
             , <&pro_micro_d 9  GPIO_ACTIVE_HIGH>
 			;
-};
-
-&right_encoder {
-	status = "okay";
 };
