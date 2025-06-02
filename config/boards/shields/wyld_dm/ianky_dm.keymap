@@ -31,7 +31,6 @@
                     &kp BSPC  &kp DEL &kp TAB &kp HOME       &kp PG_DN  &kp LALT &kp K_MUTE &kp LCTRL
 			>;
 
-			sensor-bindings = <&inc_dec_kp PG_UP PG_DN &inc_dec_kp C_VOL_DN C_VOL_UP>;
 		};
 
 		lower_layer {
